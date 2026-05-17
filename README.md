@@ -4,4 +4,11 @@
 
 ## Project Overview ##
 
-his project analyzes Netflix Movies and TV Shows data using SQL to discover meaningful insights and content trends.The analysis includes exploring ratings, release years, countries, genres, and cast information using different SQL queries. It showcases practical SQL skills for data exploration, querying, and analytical problem-solving.
+This project analyzes Netflix Movies and TV Shows data using SQL to discover meaningful insights and content trends.The analysis includes exploring ratings, release years, countries, genres, and cast information using different SQL queries. It showcases practical SQL skills for data exploration, querying, and analytical problem-solving.
+
+## Project Objective ##
+---
+
+The objective of this project is to explore and analyze Netflix data using SQL techniques.  
+The project focuses on identifying patterns, analyzing content information, and generating insights from movies and TV shows data.  
+It also highlights the use of SQL for efficient data extraction, transformation, and analysis.
