@@ -23,7 +23,7 @@ It also highlights the use of SQL for efficient data extraction, transformation,
 
 The data for this project is sourced from the Kaggle Dataset:
 
-- DatasetvLink: https://www.kaggle.com/datasets/shivamb/netflix-shows
+- Dataset Link: https://www.kaggle.com/datasets/shivamb/netflix-shows
 
 ---
 
