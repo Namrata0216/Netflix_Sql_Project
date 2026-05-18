@@ -27,5 +27,11 @@ The data for this project is sourced from the Kaggle Dataset:
 
 ---
 
+**Project Report**
+---
+
+This report can be referred for SQL queries and their implementation:
+
+
 
 
