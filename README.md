@@ -10,10 +10,22 @@ This project analyzes Netflix Movies and TV Shows data using SQL to discover mea
 ---
 
 **Project Objective**
+---
 
 The objective of this project is to explore and analyze Netflix data using SQL techniques.  
 The project focuses on identifying patterns, analyzing content information, and generating insights from movies and TV shows data.  
 It also highlights the use of SQL for efficient data extraction, transformation, and analysis.
 
 ---
+
+**Dataset**
+---
+
+The data for this project is sourced from the Kaggle Dataset:
+
+- DatasetvLink: https://www.kaggle.com/datasets/shivamb/netflix-shows
+
+---
+
+
 
