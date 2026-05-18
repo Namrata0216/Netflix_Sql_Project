@@ -32,7 +32,6 @@ The data for this project is sourced from the Kaggle Dataset:
 
 This report can be referred for SQL queries and their implementation:
 
-https://drive.google.com/file/d/1WWL7lVwYjvFTGWhz7GrD_DHeUBhyPD7C/view?usp=sharing
-
-
+[Netflix SQL Report
+]([url](https://drive.google.com/file/d/1WWL7lVwYjvFTGWhz7GrD_DHeUBhyPD7C/view?usp=sharing))
 
